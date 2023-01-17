@@ -22,7 +22,6 @@ body {
 #left-container {
     width: 40%;
     background-color: gainsboro;
-    display: inline-block;
     margin: 30px;
     float: right;
     padding: 80px 40px;
@@ -39,7 +38,6 @@ body {
 
 #foto-zoologico {
     width: 40%;
-    display: inline-block;
     background-color: gainsboro;
     margin: 30px;
     float: right;
