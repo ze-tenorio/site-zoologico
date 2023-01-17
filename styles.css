@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+#right-container {
+    width: 40%;
+    background-color: gainsboro;
+    display: inline-block;
+    margin: 30px;
+    padding: 80px 40px;
+}
+
+#left-container {
+    width: 40%;
+    background-color: gainsboro;
+    display: inline-block;
+    margin: 30px;
+    float: right;
+    padding: 80px 40px;
+}
+
+#mapa-zoologico {
+    width: 40%;
+    display: inline-block;
+    background-color: gainsboro;
+    margin: 30px;
+    padding: 40px;
+    
+}
+
+#foto-zoologico {
+    width: 40%;
+    display: inline-block;
+    background-color: gainsboro;
+    margin: 30px;
+    float: right;
+    padding: 40px;
+}
+
+#img-position {
+    display: flex;
+    justify-content: center;
+}
